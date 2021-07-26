@@ -3,5 +3,10 @@ TimeTable Management System
 Username:admin
 Password:admin12345
 
+**Student Login Details**
+Username: kulwa musa
+Password:kulwa12345
 
-**Admin Login Details**
+**Classrep**
+Username:kayondo john
+Pasword:k12345
